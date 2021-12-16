@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Glocoross Entreprise
 - 🤔 I’m looking for help with learning pythom
 - 💬 Ask me about techology related stuff
-- 📫 How to reach me: [Instagram - @jjku435] (https://www.instagram.com/jjku435/)
+- 📫 How to reach me: [Instagram - @jjku435](https://www.instagram.com/jjku435/)
 - 😄 Pronouns: He/His/Jeremy
 - ⚡ Fun fact: I am so obsess with different kinds of songs
 
