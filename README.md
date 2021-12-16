@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying in Tunku Abdul Rahman College (Sabah)
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Glocross Entreprise
-- 🤔 I’m looking for help with learning pythom
+- 🤔 I’m looking for help with learning python
 - 💬 Ask me about techology related stuff
 - 📫 How to reach me: [Instagram - @jjku435](https://www.instagram.com/jjku435/)
 - 😄 Pronouns: He/His/Jeremy
