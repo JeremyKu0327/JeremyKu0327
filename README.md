@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**JeremyKu0327/JeremyKu0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ Hi there, I am Ku Zheng Hom👋!
 
 - 🔭 I’m currently studying in Tunku Abdul Rahman College (Sabah)
 - 🌱 I’m currently learning Python
